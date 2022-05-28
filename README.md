@@ -23,5 +23,5 @@ When all flashcards are revised, programm deletes all the cards that are well-le
 
 
 
-*Project from JetBrains Academy*
+*JetBrains Academy Project*
 [Link to the Project page on JetBrains Academy](https://hyperskill.org/projects/159)
